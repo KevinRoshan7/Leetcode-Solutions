@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Array
+|  |
+| ------- |
+| [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
+## Hash Table
+|  |
+| ------- |
+| [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
+## Counting
+|  |
+| ------- |
+| [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 <!---LeetCode Topics End-->
