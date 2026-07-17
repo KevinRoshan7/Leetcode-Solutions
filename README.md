@@ -66,6 +66,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -97,6 +98,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
