@@ -50,6 +50,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Sorting
 |  |
 | ------- |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -100,8 +102,13 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 <!---LeetCode Topics End-->
