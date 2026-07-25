@@ -96,6 +96,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -115,6 +116,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3536-maximum-product-of-two-digits](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
