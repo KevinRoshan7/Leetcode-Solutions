@@ -21,6 +21,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0513-find-bottom-left-tree-value](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0687-longest-univalue-path](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -38,6 +39,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0513-find-bottom-left-tree-value](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0687-longest-univalue-path](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -56,6 +58,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0513-find-bottom-left-tree-value](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0687-longest-univalue-path](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
