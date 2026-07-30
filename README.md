@@ -12,6 +12,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0102-binary-tree-level-order-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -28,6 +29,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -45,6 +47,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0102-binary-tree-level-order-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -146,6 +149,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 ## Heap (Priority Queue)
 |  |
