@@ -24,6 +24,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0543-diameter-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0687-longest-univalue-path) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
@@ -70,6 +71,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0543-diameter-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0687-longest-univalue-path) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
@@ -174,6 +176,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -194,6 +197,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -219,4 +223,12 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0486-predict-the-winner](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
