@@ -101,6 +101,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -116,6 +117,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Hash Table
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -164,6 +166,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +192,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -220,6 +224,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -294,4 +299,8 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
