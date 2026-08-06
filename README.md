@@ -142,6 +142,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
