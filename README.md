@@ -109,6 +109,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
+| [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -170,6 +171,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -229,6 +231,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 ## String
 |  |
