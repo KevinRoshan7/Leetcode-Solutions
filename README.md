@@ -30,6 +30,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0968-binary-tree-cameras](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -51,6 +52,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -78,6 +80,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0968-binary-tree-cameras](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -242,6 +245,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
