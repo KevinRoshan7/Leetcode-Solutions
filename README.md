@@ -113,6 +113,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -207,6 +208,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
@@ -245,6 +247,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 ## String
