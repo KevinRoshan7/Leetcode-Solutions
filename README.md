@@ -165,6 +165,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1227-airplane-seat-assignment-probability](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
