@@ -120,6 +120,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2079-watering-plants](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2079-watering-plants) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -167,6 +168,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -178,6 +180,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -206,6 +209,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [2079-watering-plants](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2079-watering-plants) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -385,4 +389,8 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
