@@ -162,6 +162,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0313-super-ugly-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0486-predict-the-winner](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
+| [0780-reaching-points](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0780-reaching-points) |
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1227-airplane-seat-assignment-probability](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
@@ -400,4 +401,12 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0780-reaching-points) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0780-reaching-points) |
 <!---LeetCode Topics End-->
