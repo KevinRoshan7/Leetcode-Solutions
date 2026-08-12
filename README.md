@@ -119,6 +119,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2079-watering-plants](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -138,6 +139,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -152,6 +154,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Math
@@ -355,6 +358,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0480-sliding-window-median](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Treap
