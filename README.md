@@ -145,6 +145,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -293,6 +294,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -367,6 +369,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Treap
 |  |
 | ------- |
