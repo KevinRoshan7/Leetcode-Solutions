@@ -122,6 +122,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2079-watering-plants](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -155,6 +156,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
+| [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -180,6 +182,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -243,6 +246,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
+| [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -323,6 +327,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
 | ------- |
@@ -394,10 +399,12 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -406,6 +413,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
 | ------- |
