@@ -123,6 +123,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -191,6 +192,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1563-stone-game-v](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
@@ -274,6 +276,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1094-car-pooling](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
