@@ -125,6 +125,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -194,6 +195,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1551-minimum-operations-to-make-array-equal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1563-stone-game-v](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
@@ -367,6 +369,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Quickselect
 |  |
 | ------- |
