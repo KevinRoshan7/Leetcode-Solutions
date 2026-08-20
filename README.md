@@ -140,6 +140,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -252,6 +253,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2079-watering-plants](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
