@@ -142,6 +142,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -423,6 +424,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Treap
 |  |
 | ------- |
