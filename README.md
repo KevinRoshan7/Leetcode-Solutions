@@ -137,6 +137,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -160,6 +161,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -422,6 +424,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
