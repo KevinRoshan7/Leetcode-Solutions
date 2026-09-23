@@ -131,6 +131,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -165,6 +166,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1726-tuple-with-same-product](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1726-tuple-with-same-product) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -189,6 +191,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0436-find-right-interval](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -301,6 +304,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -436,6 +440,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0480-sliding-window-median](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
