@@ -4,6 +4,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -112,6 +113,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0313-super-ugly-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
@@ -246,6 +248,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -325,6 +328,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
@@ -382,6 +386,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
