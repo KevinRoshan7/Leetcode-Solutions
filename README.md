@@ -18,6 +18,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0102-binary-tree-level-order-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -45,6 +46,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0098-validate-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -73,6 +75,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0102-binary-tree-level-order-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -101,6 +104,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0102-binary-tree-level-order-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
@@ -435,6 +439,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Merge Sort
 |  |
 | ------- |
