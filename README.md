@@ -163,6 +163,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -262,6 +263,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -292,6 +294,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2079-watering-plants](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -375,6 +378,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
