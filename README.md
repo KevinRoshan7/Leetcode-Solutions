@@ -120,6 +120,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1096-brace-expansion-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
@@ -154,6 +155,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2079-watering-plants](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2079-watering-plants) |
@@ -466,6 +468,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Graph Theory
