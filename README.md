@@ -174,6 +174,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
+| [2542-maximum-subsequence-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -290,6 +291,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2542-maximum-subsequence-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -324,6 +326,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1386-cinema-seat-allocation](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1642-furthest-building-you-can-reach](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2542-maximum-subsequence-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -388,6 +391,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2402-meeting-rooms-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 ## String
 |  |
 | ------- |
