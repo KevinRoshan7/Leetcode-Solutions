@@ -321,6 +321,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -398,6 +399,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0399-evaluate-division](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0649-dota2-senate](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -540,6 +542,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
