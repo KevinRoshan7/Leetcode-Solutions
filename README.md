@@ -146,6 +146,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0646-maximum-length-of-pair-chain](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
+| [0875-koko-eating-bananas](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -224,6 +225,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0436-find-right-interval](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
+| [0875-koko-eating-bananas](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
