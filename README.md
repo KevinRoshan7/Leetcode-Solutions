@@ -132,6 +132,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0313-super-ugly-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
@@ -234,6 +235,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0477-total-hamming-distance](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
