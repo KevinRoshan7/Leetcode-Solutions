@@ -240,6 +240,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0313-super-ugly-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0477-total-hamming-distance](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0650-2-keys-keyboard](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0780-reaching-points](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0780-reaching-points) |
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -368,6 +369,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0337-house-robber-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0650-2-keys-keyboard](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1227-airplane-seat-assignment-probability](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
