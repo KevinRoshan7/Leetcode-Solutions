@@ -185,6 +185,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -360,6 +361,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Treap
 |  |
 | ------- |
