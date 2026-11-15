@@ -195,6 +195,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0480-sliding-window-median](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -411,6 +412,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -453,6 +455,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
@@ -474,6 +477,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
