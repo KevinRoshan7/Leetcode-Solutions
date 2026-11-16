@@ -57,6 +57,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0337-house-robber-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0513-find-bottom-left-tree-value](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -413,6 +414,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -456,6 +458,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0155-min-stack](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
@@ -478,6 +481,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
