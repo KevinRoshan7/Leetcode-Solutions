@@ -201,6 +201,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0480-sliding-window-median](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -423,6 +424,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0290-word-pattern](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0399-evaluate-division](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
