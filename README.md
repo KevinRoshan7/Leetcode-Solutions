@@ -134,6 +134,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -199,6 +200,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -301,6 +303,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0436-find-right-interval) |
@@ -423,6 +426,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
