@@ -199,6 +199,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0290-word-pattern) |
@@ -247,6 +248,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0007-reverse-integer](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0477-total-hamming-distance](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
@@ -292,6 +294,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -655,4 +658,8 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
