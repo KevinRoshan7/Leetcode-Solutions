@@ -135,6 +135,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -304,6 +305,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0436-find-right-interval) |
@@ -666,4 +668,8 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
