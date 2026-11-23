@@ -159,6 +159,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -262,6 +263,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0877-stone-game](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1227-airplane-seat-assignment-probability](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -374,6 +376,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
@@ -482,11 +485,13 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0731-my-calendar-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
 | [0901-online-stock-span](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
