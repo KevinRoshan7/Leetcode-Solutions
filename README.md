@@ -298,6 +298,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -516,6 +517,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Merge Sort
 |  |
