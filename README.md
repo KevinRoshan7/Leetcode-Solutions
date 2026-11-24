@@ -194,6 +194,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -274,6 +275,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2029-stone-game-ix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -290,6 +292,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -557,6 +560,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Treap
 |  |
 | ------- |
@@ -679,4 +683,8 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
