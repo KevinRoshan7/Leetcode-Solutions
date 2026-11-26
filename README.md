@@ -137,6 +137,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -237,6 +238,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -533,6 +535,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
