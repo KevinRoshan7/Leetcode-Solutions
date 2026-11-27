@@ -202,6 +202,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [1563-stone-game-v](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
