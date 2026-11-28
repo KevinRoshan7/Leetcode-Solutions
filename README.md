@@ -137,6 +137,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
