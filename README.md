@@ -5,6 +5,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0155-min-stack) |
@@ -444,6 +445,7 @@ A curated collection of my daily LeetCode solutions, documenting my problem-solv
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KevinRoshan7/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
